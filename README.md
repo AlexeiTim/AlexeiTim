@@ -19,7 +19,18 @@ I'm a self-taught passionate FrontEnd developer from Belarus 🇧🇾
 <code><img height="20" alt="element-plus" src="https://user-images.githubusercontent.com/10731096/95823103-9ce15780-0d5f-11eb-8010-1bd1b5910d4f.png"></code>
 <code><img height="20" alt="vitest" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg"></code>
 
+### 🤝 Connect with me:
 
+<a href="https://vk.com/id652200968"><img align="left" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/></a>
+<a href="https://t.me/TimashkovAlexei"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- 112
+- ЕИСДУ
+- Медохват
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexeiTim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeiTim&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
